@@ -28,5 +28,19 @@ Skills:  JS / HTML / CSS / PHP
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=linkan-roy)  
 
 
+<!-- Profile View Section Starts Here  -->
+<div style="text-align: center; background-color: #0F0826;">
+
+### `GitHub Profile Views: `
+
+<!-- ![Profile views](https://gpvc.arturio.dev/linkan-roy) -->
+
+
+<img height="50px" width="320px" src="https://komarev.com/ghpvc/?username=linkan-roy&label=Profile%20views&color=0e75b6&style=flat" alt="linkan-roy" /> 
+
+
+</div>
+
+<!-- Profile View Section Ends Here  -->
 
 
